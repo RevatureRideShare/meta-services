@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "user-service": "https://github.com/RevatureRideShare/user-service.git",
+    "security-service": "https://github.com/RevatureRideShare/security-service.git",
+    "admin-service": "https://github.com/RevatureRideShare/admin-service.git",
+    "location-service": "https://github.com/RevatureRideShare/location-service.git"
+  }
+}
